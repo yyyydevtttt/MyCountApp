@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCountApp</string>
+    <string name="label_textView1">パンのカウント</string>
+    <string name="label_textView2" />
+    <string name="label_resetButton">リセット</string>
+    <string name="label_message" />
+</resources>
